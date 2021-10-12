@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	ut "github.com/zdnscloud/cement/unittest"
+	ut "github.com/linkingthing/cement/unittest"
 )
 
 const defaultTtl = 2 * time.Second

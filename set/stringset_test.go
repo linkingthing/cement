@@ -3,7 +3,7 @@ package set
 import (
 	"testing"
 
-	ut "github.com/zdnscloud/cement/unittest"
+	ut "github.com/linkingthing/cement/unittest"
 )
 
 func TestStringSetAddDelete(t *testing.T) {

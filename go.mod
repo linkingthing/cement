@@ -1,4 +1,4 @@
-module github.com/zdnscloud/cement
+module github.com/linkingthing/cement
 
 go 1.13
 

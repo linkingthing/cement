@@ -4,8 +4,8 @@ import (
 	"sort"
 	"testing"
 
-	ut "github.com/zdnscloud/cement/unittest"
-	"github.com/zdnscloud/cement/set"
+	ut "github.com/linkingthing/cement/unittest"
+	"github.com/linkingthing/cement/set"
 )
 
 func TestRandString(t *testing.T) {

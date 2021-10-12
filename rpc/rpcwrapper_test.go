@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	ut "cement/unittest"
+	ut "github.com/linkingthing/cement/unittest"
 )
 
 type AddService struct {

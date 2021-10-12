@@ -1,7 +1,7 @@
 package log
 
 import (
-	l4g "github.com/zdnscloud/cement/log/log4go"
+	l4g "github.com/linkingthing/cement/log/log4go"
 )
 
 type Logger interface {

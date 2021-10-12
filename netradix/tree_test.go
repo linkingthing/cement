@@ -3,7 +3,7 @@ package netradix
 import (
 	"testing"
 
-	ut "github.com/zdnscloud/cement/unittest"
+	ut "github.com/linkingthing/cement/unittest"
 )
 
 func TestTree(t *testing.T) {

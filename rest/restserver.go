@@ -1,7 +1,7 @@
 package rest
 
 import (
-	"github.com/zdnscloud/cement/httprouter"
+	"github.com/linkingthing/cement/httprouter"
 	"net/http"
 	"strconv"
 )

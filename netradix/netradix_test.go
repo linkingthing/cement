@@ -4,8 +4,8 @@ import (
 	"net"
 	"testing"
 
-	"github.com/zdnscloud/cement/slice"
-	ut "github.com/zdnscloud/cement/unittest"
+	"github.com/linkingthing/cement/slice"
+	ut "github.com/linkingthing/cement/unittest"
 )
 
 type TestResult struct {

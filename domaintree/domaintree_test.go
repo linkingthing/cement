@@ -1,7 +1,7 @@
 package domaintree
 
 import (
-	ut "github.com/zdnscloud/cement/unittest"
+	ut "github.com/linkingthing/cement/unittest"
 	"github.com/zdnscloud/g53"
 	"testing"
 )

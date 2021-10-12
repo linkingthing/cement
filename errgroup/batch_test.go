@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	ut "github.com/zdnscloud/cement/unittest"
+	ut "github.com/linkingthing/cement/unittest"
 )
 
 const SleepTime = 1

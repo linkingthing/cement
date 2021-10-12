@@ -5,7 +5,7 @@ import (
 	"net"
 	"testing"
 
-	ut "github.com/zdnscloud/cement/unittest"
+	ut "github.com/linkingthing/cement/unittest"
 )
 
 func TestRandIP(t *testing.T) {

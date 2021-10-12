@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"text/template"
 
-	"github.com/zdnscloud/cement/reflector"
+	"github.com/linkingthing/cement/reflector"
 )
 
 type RStore struct {
